@@ -36,12 +36,12 @@ The dataset includes the following columns:
 ## How to Use
 
 1. Clone the repository:
-git clone https://github.com/yourusername/diamonds-price-prediction.git
+git clone https://github.com/wonderakwei/diamonds-price-prediction.git
 
 2. Navigate to the project directory:
 cd diamonds-price-prediction
 
-4. Install required packages:
+3. Install required packages:
 pip install -r requirements.txt
 
 4. Run the Jupyter Notebook or Python scripts to explore and train models.
